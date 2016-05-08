@@ -62,8 +62,8 @@
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
     
-    [self advertizeButtonTapped:nil];
-    [self centralButtonTapped:nil];
+    //[self advertizeButtonTapped:nil];
+    //[self centralButtonTapped:nil];
 }
 
 - (void)viewWillDisappear:(BOOL)animated {
